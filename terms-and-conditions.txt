@@ -4,135 +4,157 @@ You have been awarded one favour from esteemed civilian Greg McKenzie.  Please t
 
 Before redeeming your favour, please familiarize yourself with our Terms and Conditions:
 
-- - - - - SECTION 1: DEFINITIONS
-- - - SUB-SECTION 1 A: Terminology
-- SUB-SUB-SECTION 1 A I: "Recipient"
+SECTION 1: DEFINITIONS
+
+1.1 "Recipient"
 The term “Recipient” shall refer to the individual who has received physical possession of the Token directly from the Issuer and who is entitled to present the Token for redemption of one (1) favor, subject to the terms and conditions outlined herein.
-- SUB-SUB-SECTION 1 A II: "Issuer"
+
+1.2 "Issuer"
 The term “Issuer” shall refer to Greg McKenzie, the original creator and sole authorized grantor of the favor associated with the Token.
-- SUB-SUB-SECTION 1 A III: "Third Party"
+
+1.3 "Third Party"
 The term “Third Party” shall refer to any individual, person, entity, or other being who is not the original Recipient but may come into possession of the Token (either by gift, purchase, or other means).
 
-- - - SUB-SECTION 1 B: Additional Defined Terms
-- SUB-SUB-SECTION 1 B I: "Token"
+1.4 "Token"
 The term “Token” shall refer to the physical poker chip or other associated object that confers the right to request one (1) favor from the Issuer under the terms and conditions described herein.
-- SUB-SUB-SECTION 1 B II: "Favour" or "Favor"
+
+1.5 "Favour" or "Favor"
 The term “Favour” or “Favor” shall refer to a singular act, service, or concession that the Issuer has agreed to consider performing, so long as it is in compliance with these Terms and Conditions and is not otherwise prohibited herein or by law.
 
-- - - - - SECTION 2: ACCEPTANCE AND REDEMPTION OF TOKEN
-- - - SUB-SECTION 2 A: Right of Redemption
-- SUB-SUB-SECTION 2 A I: Authorized Redeemer
+
+SECTION 2: ACCEPTANCE AND REDEMPTION OF TOKEN
+
+2.1 Right of Redemption
+2.1.1 Authorized Redeemer
 Only the Recipient is authorized to redeem the Token for a Favour. Any attempted redemption by a Third Party without the express written approval of the Issuer shall be deemed invalid.
-- SUB-SUB-SECTION 2 A II: Mandatory Written Approval for Transfer
+2.1.2 Mandatory Written Approval for Transfer
 If the Token is sold, gifted, or otherwise transferred to a Third Party, the Favour can only be redeemed if the Third Party obtains prior written approval from the Issuer (Greg McKenzie). Failure to obtain such written approval shall nullify any claim to a Favour.
 
-- - - SUB-SECTION 2 B: Token Limitations
-- SUB-SUB-SECTION 2 B I: Single-Use Nature
+2.2 Token Limitations
+2.2.1 Single-Use Nature
 Each Token is valid for a single Favour only. Once redeemed, the Token is considered spent and is invalid for any additional requests.
-- SUB-SUB-SECTION 2 B II: Expiration
+2.2.2 Expiration
 The Token and its associated Favour shall expire one (1) year after the date the Recipient originally received the Token. After the expiration date, the Token shall be deemed void and any attempt at redemption shall be invalid.
 
-- - - - - SECTION 3: TOKEN TRANSFER AND MONETARY RESTRICTIONS
-- - - SUB-SECTION 3 A: Maximum Sale Price
-- SUB-SUB-SECTION 3 A I: 20 CAD Limit
+
+SECTION 3: TOKEN TRANSFER AND MONETARY RESTRICTIONS
+
+3.1 Maximum Sale Price
+3.1.1 20 CAD Limit
 The Token may only be sold or transferred to a Third Party for a sum not exceeding twenty (20) Canadian dollars, adjusted for inflation as of the date the Recipient received the Token. Any attempted sale exceeding this amount shall render the transfer void unless the Issuer provides written approval to the contrary.
-- SUB-SUB-SECTION 3 A II: Gifts vs. Sales
+3.1.2 Gifts vs. Sales
 Gifting of the Token without monetary exchange is permitted; however, the acceptance of this gifted Token still requires compliance with all Terms and Conditions, including the requirement for Issuer approval for redemption by the Third Party.
 
-- - - - - SECTION 4: SCOPE OF FAVOUR
-- - - SUB-SECTION 4 A: General Favour Parameters
-- SUB-SUB-SECTION 4 A I: Reasonable Requests
+
+SECTION 4: SCOPE OF FAVOUR
+
+4.1 General Favour Parameters
+4.1.1 Reasonable Requests
 All requests for Favours shall be reasonable in nature. The Issuer retains sole and final discretion to determine whether a Favour request is “reasonable.”
-- SUB-SUB-SECTION 4 A II: Disallowable Requests
-Favours that are blatantly illegal, morally reprehensible, or physically impossible (e.g., “climb Mount Everest in my honor next Tuesday”) shall be automatically disallowed, at the sole discretion of the Issuer.
+4.1.2 Disallowable Requests
+Favours that are blatantly illegal, morally reprehensible, or physically impossible (such as “climb Mount Everest in my honor next Tuesday”) shall be automatically disallowed, at the sole discretion of the Issuer.
 
-- - - SUB-SECTION 4 B: Sexual Favour Clause
-- SUB-SUB-SECTION 4 B I: Conditional Consideration
+4.2 Sexual Favour Clause
+4.2.1 Conditional Consideration
 Sexual Favours may be considered if they fall within the acceptable tastes, preferences, and willingness of the Issuer at the time of redemption.
-- SUB-SUB-SECTION 4 B II: Attractiveness, Relationship Status, and Tiredness
-Approval for sexual Favours is contingent upon the Recipient’s perceived attractiveness (according to the subjective tastes of the Issuer), the Issuer’s relationship status, and/or the Issuer’s level of tiredness or desire at the time of redemption. The Issuer reserves the right to decline any sexual Favour request for any reason whatsoever without explanation.
+4.2.2 Attractiveness, Relationship Status, and Tiredness
+Approval for sexual Favours is contingent upon the Recipient’s perceived attractiveness (according to the subjective tastes of the Issuer), the Issuer’s relationship status, and the Issuer’s level of tiredness or desire at the time of redemption. The Issuer reserves the right to decline any sexual Favour request for any reason whatsoever without explanation.
 
-- - - - - SECTION 5: ISSUER’S RIGHT TO DENY FAVOUR (WEASEL CLAUSE)
-- - - SUB-SECTION 5 A: Denial of Favour
-- SUB-SUB-SECTION 5 A I: Absolute Discretion
+
+SECTION 5: ISSUER’S RIGHT TO DENY FAVOUR (WEASEL CLAUSE)
+
+5.1 Denial of Favour
+5.1.1 Absolute Discretion
 The Issuer may deny any Favour at any time, for any or no reason, without incurring liability or obligation. This includes, but is not limited to, denial based on changing personal priorities, moral convictions, schedule conflicts, or a sudden desire to retract the offer.
-- SUB-SUB-SECTION 5 A II: Notice of Denial
-The Issuer shall not be obligated to provide any advanced notice of denial or rationale thereof. Denial may be communicated verbally, in writing, or by mere silence and refusal to perform.
+5.1.2 Notice of Denial
+The Issuer shall not be obligated to provide any advanced notice of denial or a rationale thereof. Denial may be communicated verbally, in writing, or by mere silence and refusal to perform.
 
-- - - - - SECTION 6: DISCLAIMER OF LIABILITY
-- - - SUB-SECTION 6 A: No Warranties
-- SUB-SUB-SECTION 6 A I: "As-Is" Favour
+
+SECTION 6: DISCLAIMER OF LIABILITY
+
+6.1 No Warranties
+6.1.1 "As-Is" Favour
 The Issuer provides the Favour on an “as is” basis. No warranties or guarantees are provided, including fitness for any particular purpose, merchantability, or otherwise.
-- SUB-SUB-SECTION 6 A II: No Guarantee of Outcome
+6.1.2 No Guarantee of Outcome
 The Issuer does not guarantee any particular outcome or result from the Favour. Any reliance on the Favour is strictly at the Recipient’s own risk.
 
-- - - SUB-SECTION 6 B: Damages and Indemnification
-- SUB-SUB-SECTION 6 B I: No Liability for Damages
+6.2 Damages and Indemnification
+6.2.1 No Liability for Damages
 The Issuer shall not be liable for any damages arising out of or relating to the Favour, whether direct, indirect, incidental, or consequential, including (but not limited to) emotional distress, injury, property damage, or any other unfortunate outcome.
-- SUB-SUB-SECTION 6 B II: Recipient’s Indemnification
+6.2.2 Recipient’s Indemnification
 The Recipient (and any subsequent Third Party) agrees to indemnify, defend, and hold harmless the Issuer from and against any claims, causes of action, or damages resulting from the Favour or the misuse or transfer of the Token.
 
-- - - - - SECTION 7: PROHIBITED USES AND CONDUCT
-- - - SUB-SECTION 7 A: Illegal or Unlawful Activities
-- SUB-SUB-SECTION 7 A I: Compliance with Laws
+
+SECTION 7: PROHIBITED USES AND CONDUCT
+
+7.1 Illegal or Unlawful Activities
+7.1.1 Compliance with Laws
 The Recipient agrees not to request or encourage the Issuer to engage in any activities that are illegal, illicit, or violate any local, federal, or international law.
-- SUB-SUB-SECTION 7 A II: Responsibility for Violations
+7.1.2 Responsibility for Violations
 The Recipient shall bear full responsibility and liability for any violations of law that arise from an attempt to redeem the Token for a Favour.
 
-- - - SUB-SECTION 7 B: Public Decency and Nuisance
-- SUB-SUB-SECTION 7 B I: Public Embarrassment
+7.2 Public Decency and Nuisance
+7.2.1 Public Embarrassment
 The Recipient shall not request any Favour that intentionally humiliates, defames, or creates a public nuisance for the Issuer or any other parties.
-- SUB-SUB-SECTION 7 B II: Conduct Detrimental to the Issuer
+7.2.2 Conduct Detrimental to the Issuer
 Any conduct that may tarnish the Issuer’s reputation, standing in the community, or goodwill may be rejected at the Issuer’s sole discretion.
 
-- - - - - SECTION 8: FORCE MAJEURE
-- - - SUB-SECTION 8 A: Unforeseen Circumstances
-- SUB-SUB-SECTION 8 A I: Acts of God and Beyond
-The Issuer shall be excused from any inability to perform the requested Favour in the event of unforeseen circumstances beyond the Issuer’s control, including but not limited to: natural disasters, pandemics, acts of war, alien invasions, or anything else that would reasonably prevent performance.
-- SUB-SUB-SECTION 8 A II: Extent of Relief
+
+SECTION 8: FORCE MAJEURE
+
+8.1 Unforeseen Circumstances
+8.1.1 Acts of God and Beyond
+The Issuer shall be excused from any inability to perform the requested Favour in the event of unforeseen circumstances beyond the Issuer’s control, including but not limited to natural disasters, pandemics, acts of war, alien invasions, or anything else that would reasonably prevent performance.
+8.1.2 Extent of Relief
 The Issuer shall be fully released from any obligations during such events of force majeure without incurring any penalty or liability.
 
-- - - - - SECTION 9: TERM AND TERMINATION
-- - - SUB-SECTION 9 A: Validity Period
-- SUB-SUB-SECTION 9 A I: One-Year Limit
-As stated above, the Token is valid for a period of one (1) year from the date the Recipient receives the Token.
-- SUB-SUB-SECTION 9 A II: Automatic Expiration
+
+SECTION 9: TERM AND TERMINATION
+
+9.1 Validity Period
+9.1.1 One-Year Limit
+The Token is valid for a period of one (1) year from the date the Recipient receives the Token.
+9.1.2 Automatic Expiration
 Upon expiration, all rights to request a Favour shall terminate, and no further obligations or entitlements shall exist between the Issuer and the Recipient.
 
-- - - SUB-SECTION 9 B: Additional Grounds for Termination
-- SUB-SUB-SECTION 9 B I: Violations of Terms
+9.2 Additional Grounds for Termination
+9.2.1 Violations of Terms
 Any breach of these Terms and Conditions by the Recipient shall result in immediate termination of the Token’s validity.
-- SUB-SUB-SECTION 9 B II: Unilateral Discretion
+9.2.2 Unilateral Discretion
 The Issuer, at any time, may unilaterally declare the Token null and void due to a variety of concerns, including but not limited to suspected fraud, theft, or use of the Token in unscrupulous or comedic ways that cause reputational harm.
 
-- - - - - SECTION 10: AMENDMENTS AND MODIFICATIONS
-- - - SUB-SECTION 10 A: Right to Modify
-- SUB-SUB-SECTION 10 A I: Issuer’s Discretion
+
+SECTION 10: AMENDMENTS AND MODIFICATIONS
+
+10.1 Right to Modify
+10.1.1 Issuer’s Discretion
 The Issuer reserves the right to amend or modify these Terms and Conditions at any time, with or without notice, provided that any such amendment shall not materially deprive the Recipient of the possibility of a Favour previously granted (except as otherwise stated in the Weasel Clause).
-- SUB-SUB-SECTION 10 A II: Communication of Changes
+10.1.2 Communication of Changes
 The Issuer shall endeavor (but is not required) to inform the Recipient of any changes via a written or electronic medium. Continued possession of the Token shall constitute acceptance of any modifications.
 
-- - - - - SECTION 11: MISCELLANEOUS PROVISIONS
-- - - SUB-SECTION 11 A: Severability
-- SUB-SUB-SECTION 11 A I: Invalid Clauses
+
+SECTION 11: MISCELLANEOUS PROVISIONS
+
+11.1 Severability
+11.1.1 Invalid Clauses
 If any provision of these Terms and Conditions is found to be invalid, illegal, or unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect, and the invalid, illegal, or unenforceable provision shall be severed or reformed to the minimum extent necessary.
 
-- - - SUB-SECTION 11 B: Governing Law
-- SUB-SUB-SECTION 11 B I: Choice of Law
+11.2 Governing Law
+11.2.1 Choice of Law
 These Terms and Conditions shall be governed by and construed in accordance with the laws of the Province of [Your Province], Canada, without regard to its conflict of laws provisions.
 
-- - - SUB-SECTION 11 C: Dispute Resolution
-- SUB-SUB-SECTION 11 C I: Good Faith Negotiations
+11.3 Dispute Resolution
+11.3.1 Good Faith Negotiations
 In the event of a dispute arising under these Terms and Conditions, the Issuer and the Recipient shall attempt to resolve such dispute in good faith before pursuing any formal legal action.
-- SUB-SUB-SECTION 11 C II: Arbitration
+11.3.2 Arbitration
 If good faith negotiations fail, the parties agree to submit any disputes to final and binding arbitration under the rules of a recognized arbitration body in the Issuer’s province. Judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
 
-- - - SUB-SECTION 11 D: Entire Agreement
-- SUB-SUB-SECTION 11 D I: Integration Clause
+11.4 Entire Agreement
+11.4.1 Integration Clause
 These Terms and Conditions constitute the entire agreement between the Recipient and the Issuer regarding the Token and supersede all prior agreements, representations, and understandings.
 
-- - - SUB-SECTION 11 E: Waivers
-- SUB-SUB-SECTION 11 E I: No Waiver of Rights
+11.5 Waivers
+11.5.1 No Waiver of Rights
 Failure or delay by the Issuer to enforce any of the provisions herein shall not be considered a waiver of any rights or remedies, and shall not excuse the Recipient from future compliance with the same.
 
 IN WITNESS WHEREOF, the Issuer (Greg McKenzie) has created this Token, and by its use and acceptance, the Recipient agrees to be bound by these Terms and Conditions.
