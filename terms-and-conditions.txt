@@ -41,9 +41,9 @@ The Token and its associated Favour shall expire one (1) year after the date the
 
 SECTION 3: TOKEN TRANSFER AND MONETARY RESTRICTIONS
 
-3.1 Maximum Sale Price
-3.1.1 20 CAD Limit
-The Token may only be sold or transferred to a Third Party for a sum not exceeding twenty (20) Canadian dollars, adjusted for inflation as of the date the Recipient received the Token. Any attempted sale exceeding this amount shall render the transfer void unless the Issuer provides written approval to the contrary.
+3.1 Minimum Sale Price
+3.1.1 10 CAD Minimum
+The Token may only be sold or transferred to a Third Party for a sum not less than ten (10) Canadian dollars, adjusted for inflation as of the date the Recipient received the Token. Any attempted sale below this amount shall render the transfer void unless the Issuer provides written approval to the contrary.
 3.1.2 Gifts vs. Sales
 Gifting of the Token without monetary exchange is permitted; however, the acceptance of this gifted Token still requires compliance with all Terms and Conditions, including the requirement for Issuer approval for redemption by the Third Party.
 
